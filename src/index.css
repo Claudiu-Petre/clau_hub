@@ -114,3 +114,22 @@ img {
 
 /* ================ MEDIA QUERY (medium devices:tablets) =========== */
 
+@media screen and (max-width: 1024px) {
+    .container{
+        width: var(--container-width-md);
+    }
+    section {
+        margin-top: 6rem;
+    }
+}
+
+/* ================ MEDIA QUERY (small devices:phones) =========== */
+
+@media screen and (max-width: 600px) {
+    .container{
+        width: var(--container-width-sm);
+    }
+    section > h2 {
+        margin-bottom: 2rem;
+    }
+}
