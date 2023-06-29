@@ -14,9 +14,9 @@
 }
 
 .about__me-image {
-    border-radius: 2rem;
+    border-radius: 6rem;
     overflow: hidden;
-    transform: rotate(5deg);
+    transform: rotate(6deg);
     transition: var(--transition);
 }
 .about__me-image:hover{
