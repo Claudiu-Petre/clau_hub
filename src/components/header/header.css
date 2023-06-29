@@ -20,6 +20,7 @@ header {
 
 /* ========= HEADER SOCIALS========== */
 .header_socials {
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,8 +31,8 @@ header {
 }
 .header_socials::after {
     content: '';
-    width: 1px;
-    height: 2rem;
+    width: 3px;
+    height: 4rem;
     background: var(--color-primary);
 }
 
@@ -57,7 +58,7 @@ header {
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 20px;
 }
 
 /* ================ MEDIA QUERY (medium devices:tablets) =========== */
