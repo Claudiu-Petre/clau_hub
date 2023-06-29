@@ -14,7 +14,7 @@ text-decoration: none;
 
 /* CSS variables */
 :root {
-    --color-bg: #4d4db2;
+    --color-bg: #1b1b55;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4bd5ff;
     --color-primary-variant: rgba(77,181,255,0.4);
@@ -73,8 +73,8 @@ h1 {
 }
 
 section {
-    margin-top: 8rem;
-    height: 100vh;
+    margin-top: 5rem;
+    /* height: 100vh; */
 }
 
 section > h2, section > h5 {
