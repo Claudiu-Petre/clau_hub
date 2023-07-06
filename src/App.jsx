@@ -11,7 +11,7 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
-    <>
+    <React.Fragment>
       <Header />
       <Nav />
       <About />
@@ -21,8 +21,8 @@ const App = () => {
       <Testimonial />
       <Contact />
       <Footer />
-    </>
-  )
+    </React.Fragment>
+  );
 }
 
 export default App

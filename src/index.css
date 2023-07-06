@@ -14,7 +14,7 @@ text-decoration: none;
 
 /* CSS variables */
 :root {
-    --color-bg: #392163;
+    --color-bg: #0f0a18;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4bd5ff;
     --color-primary-variant: rgba(77,181,255,0.4);
@@ -40,20 +40,13 @@ html {
 
 body {
     background: var(--color-bg);
-    background-image: radial-gradient(#000 1%, transparent 4%);
-    background-size: 13px 13px;
+    background-image: radial-gradient(#000 10%, transparent 8%);
+    background-size: 14px 14px;
  
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
     line-height: 1.7;
-    
- /* background: var(--color-bg);
-    background-image: radial-gradient(black 40%, transparent 60%);
-    background-size: 4px 4px; */
-    /* background: url(http://s14.directupload.net/images/111129/44ga9qid.png); */
-
-    /* background-image: url(../src/pics/2dots.png); */
 }
 
 /* =============GENERAL STYLES=========== */
