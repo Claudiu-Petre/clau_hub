@@ -1,10 +1,13 @@
 .container.testimonials__container{
     width: 50%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap:2.5rem;
 }
 
 .client__avatar{
     width: 8rem;
-    aspect-ratio: 1/1;
+    /* aspect-ratio: 1/1; */
     overflow: hidden;
     border-radius: 50%;
     margin: 0 auto 1rem;
@@ -12,6 +15,7 @@
 }
 
 .testimonial{
+    
     background: var(--color-bg-variant);
     text-align: center;
     padding: 2rem;
@@ -21,10 +25,11 @@
 }
 
 .client__review {
+    
     color: var(--color-light);
     font-weight: 300;
     display: block;
-    width: 80%;
+    width: 100%;
     margin: 0.8rem auto 0;
 }
 

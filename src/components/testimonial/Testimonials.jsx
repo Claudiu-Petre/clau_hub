@@ -5,13 +5,6 @@ import AVTR2 from '../../pics/avatar2.jpeg'
 import AVTR3 from '../../pics/avatar3.jpeg'
 import AVTR4 from '../../pics/avatar4.jpeg'
 
-// import { Swiper, SwiperSlide } from 'swiper/react/swiper-react.js'
-// import {Pagination} from 'swiper/react/swiper-react.js'
-// import 'swiper/css';
-// import 'swiper/css/pagination';
-
-
-
 
 
 const data  = [
@@ -43,12 +36,7 @@ const Testimonials = () => {
       <h5>Review From Clients</h5>
       <h2>Testimonials</h2>
 
-      <div className='container testimonials__container'
-      // modules={[Pagination]}
-      // spaceBetween={40}
-      // slidesPerView={1}
-      // pagination={{ clickable: true }}
-      >
+      <div className='container testimonials__container'>
         
 
         {
