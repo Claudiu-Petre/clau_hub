@@ -49,6 +49,11 @@ header {
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 
 }
+.me img{
+    height: 103%;
+    border-radius: 10rem 10rem 0 0;
+    
+}
 
 /* ========== SCROLL DOWN ================== */
 
