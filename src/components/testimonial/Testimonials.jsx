@@ -1,9 +1,11 @@
 import React from 'react'
+
 import './testimonial.css'
 import AVTR1 from '../../pics/avatar1.jpeg'
 import AVTR2 from '../../pics/avatar2.jpeg'
 import AVTR3 from '../../pics/avatar3.jpeg'
 import AVTR4 from '../../pics/avatar4.jpeg'
+// import AVTR5 from '../../pics/IMG_2320.jpg'
 
 
 
@@ -27,7 +29,12 @@ const data  = [
     avatar:AVTR4,
     name: 'BB king',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
-  }
+  },
+  // {
+  //   avatar:AVTR5,
+  //   name: 'Leon Leon',
+  //   review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
+  // }
 ]
 
 const Testimonials = () => {
@@ -38,7 +45,6 @@ const Testimonials = () => {
 
       <div className='container testimonials__container'>
         
-
         {
           data.map(({avatar, name, review}, index) => {
             return (
