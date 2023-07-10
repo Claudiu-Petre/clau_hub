@@ -12,22 +12,22 @@ import AVTR4 from '../../pics/avatar4.jpeg'
 const data  = [
   {
     avatar: AVTR1,
-    name: 'Tina Turner',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
-  },
-  {
-    avatar: AVTR2,
-    name: 'Michael Jackson',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
-  },
-  {
-    avatar:AVTR3,
     name: 'Bon Jovi',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   {
+    avatar: AVTR2,
+    name: 'Michael Bubble',
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
+  },
+  {
+    avatar:AVTR3,
+    name: 'Tina Turner',
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
+  },
+  {
     avatar:AVTR4,
-    name: 'BB king',
+    name: 'Rita Ora',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   // {

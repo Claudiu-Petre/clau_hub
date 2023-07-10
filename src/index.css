@@ -9,7 +9,6 @@ outline: 0;
 box-sizing: border-box;
 list-style: none;
 text-decoration: none;
-
 }
 
 /* CSS variables */
@@ -42,11 +41,12 @@ body {
     background: var(--color-bg);
     background-image: radial-gradient(#000 10%, transparent 8%);
     background-size: 14px 14px;
- 
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
     line-height: 1.7;
+    border: 3px solid var(--color-primary);
+
 }
 
 /* =============GENERAL STYLES=========== */
