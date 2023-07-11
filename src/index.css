@@ -45,7 +45,7 @@ body {
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
     line-height: 1.7;
-    border: 3px solid var(--color-primary);
+    /* border: 3px solid var(--color-primary); */
 
 }
 
