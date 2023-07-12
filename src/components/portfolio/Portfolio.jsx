@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: 'Meteorologist',
     github: 'https://github.com/Claudiu-Petre/WeatherApp',
-    demo: 'https://dribbble.com/shots/21606628-Weather-UI-for-Android'
+    demo: 'https://forecast-er.netlify.app/'
   },
   {
     id: 3,
