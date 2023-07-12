@@ -20,7 +20,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Meteorologist',
-    github: 'http://github.com',
+    github: 'https://github.com/Claudiu-Petre/WeatherApp',
     demo: 'https://dribbble.com/shots/21606628-Weather-UI-for-Android'
   },
   {
