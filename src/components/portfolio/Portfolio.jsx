@@ -28,7 +28,7 @@ const data = [
     image: IMG3,
     title: 'Tracker',
     github: 'https://github.com/Claudiu-Petre/tracker',
-    demo: 'https://dribbble.com/shots/18935350-Milkinside-Globe'
+    demo: 'https://magenta-stardust-14f14c.netlify.app/'
   },
   {
     id: 4,
