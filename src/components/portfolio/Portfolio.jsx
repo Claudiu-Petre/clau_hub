@@ -19,15 +19,15 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Meteorologist',
+    title: 'Forecast-er',
     github: 'https://github.com/Claudiu-Petre/WeatherApp',
     demo: 'https://forecast-er.netlify.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'The Mapper',
-    github: 'http://github.com',
+    title: 'Tracker',
+    github: 'https://github.com/Claudiu-Petre/tracker',
     demo: 'https://dribbble.com/shots/18935350-Milkinside-Globe'
   },
   {
