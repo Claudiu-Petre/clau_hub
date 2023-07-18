@@ -34,8 +34,8 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Do$her',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/search/pounds'
+    github: 'https://github.com/Claudiu-Petre/dosher',
+    demo: 'https://app.netlify.com/sites/profound-begonia-244a01/overview'
   },
   {
     id: 5,
@@ -71,6 +71,7 @@ const Portfolio = () => {
                 <div className='portfolio__item-cta'>
                   <a href={github} className='btn' target='_blank' rel='noreferrer'>Github</a>
                   <a href={demo} className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
+                  {/* <div className='language'>Python</div> */}
                 </div>
               </article>
             )
