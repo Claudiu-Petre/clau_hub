@@ -35,7 +35,7 @@ const data = [
     image: IMG4,
     title: 'Do$her',
     github: 'https://github.com/Claudiu-Petre/dosher',
-    demo: 'https://app.netlify.com/sites/profound-begonia-244a01/overview'
+    demo: 'https://profound-begonia-244a01.netlify.app/'
   },
   {
     id: 5,
