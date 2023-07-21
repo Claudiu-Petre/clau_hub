@@ -41,8 +41,8 @@ const data = [
     id: 5,
     image: IMG5,
     title: 'Cruise Ship',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/4395535-BOS-Corporate-Event-2'
+    github: 'https://github.com/Claudiu-Petre/cruise-ships-gui',
+    demo: 'https://effervescent-dasik-b79956.netlify.app/'
   },
   {
     id: 6,
