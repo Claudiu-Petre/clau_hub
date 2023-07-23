@@ -28,21 +28,21 @@ const data = [
     image: IMG3,
     title: 'Tracker',
     github: 'https://github.com/Claudiu-Petre/tracker',
-    demo: 'https://magenta-stardust-14f14c.netlify.app/'
+    demo: 'https://trak-er.netlify.app/'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Do$her',
     github: 'https://github.com/Claudiu-Petre/dosher',
-    demo: 'https://profound-begonia-244a01.netlify.app/'
+    demo: 'hhttps://dosher.netlify.app/'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Cruise Ship',
     github: 'https://github.com/Claudiu-Petre/cruise-ships-gui',
-    demo: 'https://effervescent-dasik-b79956.netlify.app/'
+    demo: 'hhttps://cruise-ship.netlify.app/'
   },
   {
     id: 6,
