@@ -35,14 +35,14 @@ const data = [
     image: IMG4,
     title: 'Do$her',
     github: 'https://github.com/Claudiu-Petre/dosher',
-    demo: 'hhttps://dosher.netlify.app/'
+    demo: 'https://dosher.netlify.app/'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Cruise Ship',
     github: 'https://github.com/Claudiu-Petre/cruise-ships-gui',
-    demo: 'hhttps://cruise-ship.netlify.app/'
+    demo: 'https://cruise-ship.netlify.app/'
   },
   {
     id: 6,
