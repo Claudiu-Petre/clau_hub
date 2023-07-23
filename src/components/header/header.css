@@ -3,6 +3,10 @@ header {
     padding-top: 7rem;
     overflow: hidden;
 }
+ /* h5{
+    font-size: 30px;
+    text-align: left;
+ } */
 
 .header_container {
     text-align: center;
@@ -39,8 +43,8 @@ header {
 /* ==========Me================== */
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 26rem;
+    height: 40rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 6rem;
