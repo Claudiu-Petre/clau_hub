@@ -14,7 +14,7 @@ const data = [
     image: IMG1,
     title: 'The Analyzer',
     github: 'https://github.com/Claudiu-Petre/Analyzer',
-    demo: 'https://dribbble.com/shots/14796898-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://theanalizer.netlify.app/'
   },
   {
     id: 2,
