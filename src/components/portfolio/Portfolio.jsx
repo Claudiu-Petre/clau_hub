@@ -12,8 +12,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Dashboard, Python',
-    github: 'http://github.com',
+    title: 'The Analyzer',
+    github: 'https://github.com/Claudiu-Petre/Analyzer',
     demo: 'https://dribbble.com/shots/14796898-Orion-UI-kit-Charts-templates-infographics-in-Figma'
   },
   {
