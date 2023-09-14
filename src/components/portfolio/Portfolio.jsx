@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Forecast-er',
+    title: 'Forecaster',
     github: 'https://github.com/Claudiu-Petre/WeatherApp',
     demo: 'https://forecast-er.netlify.app/'
   },
@@ -33,7 +33,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Do$her',
+    title: 'Do$hing',
     github: 'https://github.com/Claudiu-Petre/dosher',
     demo: 'https://dosher.netlify.app/'
   },
@@ -47,7 +47,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'The Bookist',
+    title: 'Bookist',
     github: 'http://github.com',
     demo: 'https://dribbble.com/shots/20454786-E-Book-Dashboard'
   }
