@@ -12,22 +12,22 @@ import AVTR4 from '../../pics/avatar4.jpeg'
 const data  = [
   {
     avatar: AVTR1,
-    name: 'Bon Jovi',
+    name: 'Client 1',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   {
     avatar: AVTR2,
-    name: 'Michael Bubble',
+    name: 'Client 2',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   {
     avatar:AVTR3,
-    name: 'Tina Turner',
+    name: 'Client 3',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   {
     avatar:AVTR4,
-    name: 'Rita Ora',
+    name: 'Client 4',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ipsam porro sunt vero tempore nihil libero rem, animi minus assumenda at earum architecto corrupti nam incidunt corporis, distinctio dicta repellendus?'
   },
   // {
