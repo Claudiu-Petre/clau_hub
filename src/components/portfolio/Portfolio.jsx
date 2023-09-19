@@ -12,7 +12,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'The Analyzer',
+    title: 'Analyzer',
     github: 'https://github.com/Claudiu-Petre/Analyzer',
     demo: 'https://theanalizer.netlify.app/'
   },
