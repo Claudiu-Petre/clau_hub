@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../pics/dashboard.webp'
+import IMG1 from '../../pics/hangman.png'
 import IMG2 from '../../pics/meteorologist.webp'
 import IMG3 from '../../pics/mapper.webp'
 import IMG4 from '../../pics/dosher.webp'
@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Analyzer',
-    github: 'https://github.com/Claudiu-Petre/Analyzer',
-    demo: 'https://theanalizer.netlify.app/'
+    title: 'Hangman',
+    github: 'https://github.com/Claudiu-Petre/Hangman',
+    demo: 'https://replit.com/@ClaudiuPetre/Day-7-Hangman-5-Start?v=1'
   },
   {
     id: 2,
