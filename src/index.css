@@ -19,14 +19,14 @@ text-decoration: none;
 
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
 
-    --color-bg: #0d0515;
+    --color-bg: #212022;
     /* --color-bg:#0c040c; */
 
-    --color-bg-variant: #1d1d5a;
-    --color-primary: #2dbbe7;
-    --color-primary-variant: rgba(77,181,255,0.4);
+    --color-bg-variant: #131212;
+    --color-primary: #3dc3ec;
+    --color-primary-variant: rgba(140, 201, 245, 0.4);
     --color-white: #ffffff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: rgba(235, 235, 235, 0.6);
 
     --transition: all 400ms ease;
 
@@ -47,7 +47,7 @@ html {
 
 body {
     background: var(--color-bg);
-    background-image: radial-gradient(#161515 10%, transparent 8%);
+    background-image: radial-gradient(#1c1919 13%, transparent 8%);
     background-size: 14px 14px;
     width: 100%;
     font-family: 'Poppins', sans-serif;
