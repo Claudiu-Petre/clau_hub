@@ -35,7 +35,7 @@ const data = [
     image: IMG4,
     title: 'Do$hing',
     github: 'https://github.com/Claudiu-Petre/dosher',
-    demo: 'https://dosher.netlify.app/'
+    demo: 'https://doshing.netlify.app/'
   },
   {
     id: 5,
