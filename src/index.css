@@ -23,10 +23,10 @@ text-decoration: none;
     /* --color-bg:#0c040c; */
 
     --color-bg-variant: #131212;
-    --color-primary: #3dc3ec;
+    --color-primary: #a51c1c;
     --color-primary-variant: rgba(140, 201, 245, 0.4);
     --color-white: #ffffff;
-    --color-light: rgba(235, 235, 235, 0.6);
+    --color-light: rgba(249, 249, 249, 0.6);
 
     --transition: all 400ms ease;
 

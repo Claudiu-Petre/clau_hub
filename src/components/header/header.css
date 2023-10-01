@@ -24,7 +24,7 @@ header {
 
 /* ========= HEADER SOCIALS========== */
 .header_socials {
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,7 +36,7 @@ header {
 .header_socials::after {
     content: '';
     width: 3px;
-    height: 4rem;
+    height: 5rem;
     background: var(--color-primary);
 }
 
@@ -66,8 +66,8 @@ header {
     right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 20px;
+    font-weight: 400;
+    font-size: 25px;
 }
 
 /* ================ MEDIA QUERY (medium devices:tablets) =========== */
