@@ -9,7 +9,7 @@ import { useState } from 'react'
 // import {FiNavigation2} from 'react-icons/fi'
 
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState('#header')
+  const [activeNav, setActiveNav] = useState('#home')
   return (
     <nav>
       <a href='#home' onClick={() =>setActiveNav('#home')} className={activeNav === '#home' ? 'active' :'' }><AiOutlineHome/></a>
