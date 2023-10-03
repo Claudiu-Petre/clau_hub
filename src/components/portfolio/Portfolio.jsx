@@ -47,7 +47,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Bookist',
+    title: 'Bookist (API)',
     github: 'https://github.com/Claudiu-Petre/bookist',
     // demo: 'https://dribbble.com/shots/20454786-E-Book-Dashboard'
     demo: 'https://cdn.dribbble.com/userupload/10297166/file/original-ed565d2900874c3339c4bb176f6faa52.mp4'
