@@ -1,10 +1,10 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../pics/hangman.png'
-import IMG2 from '../../pics/meteorologist.webp'
-import IMG3 from '../../pics/mapper.webp'
-import IMG4 from '../../pics/dosher.webp'
-import IMG5 from '../../pics/cruiseship.webp'
+import IMG1 from '../../pics/flip.gif'
+import IMG2 from '../../pics/weather.gif'
+import IMG3 from '../../pics/cycling.gif'
+import IMG4 from '../../pics/money.gif'
+import IMG5 from '../../pics/ship.gif'
 import IMG6 from '../../pics/the_bookist.webp'
 
 
@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Hangman',
-    github: 'https://github.com/Claudiu-Petre/Hangman',
-    demo: 'https://replit.com/@ClaudiuPetre/Day-7-Hangman-5-Start?v=1'
+    title: 'Flip-Flop',
+    github: 'https://github.com/Claudiu-Petre/flips',
+    demo: 'https://flips.netlify.app/'
   },
   {
     id: 2,
@@ -48,8 +48,10 @@ const data = [
     id: 6,
     image: IMG6,
     title: 'Bookist',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/shots/20454786-E-Book-Dashboard'
+    github: 'https://github.com/Claudiu-Petre/bookist',
+    // demo: 'https://dribbble.com/shots/20454786-E-Book-Dashboard'
+    demo: 'https://cdn.dribbble.com/userupload/10297166/file/original-ed565d2900874c3339c4bb176f6faa52.mp4'
+
   }
 ]
 

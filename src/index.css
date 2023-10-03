@@ -19,11 +19,11 @@ text-decoration: none;
 
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
 
-    --color-bg: #212022;
+    --color-bg: #313032;
     /* --color-bg:#0c040c; */
 
     --color-bg-variant: #131212;
-    --color-primary: #a51c1c;
+    --color-primary: #d22a2a;
     --color-primary-variant: rgba(140, 201, 245, 0.4);
     --color-white: #ffffff;
     --color-light: rgba(249, 249, 249, 0.6);
