@@ -40,8 +40,8 @@ const data  = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Review From Clients</h5>
-      <h2>Testimonials</h2>
+      {/* <h5>Review From Clients</h5> */}
+      <h2>Reviews</h2>
 
       <div className='container testimonials__container'>
         

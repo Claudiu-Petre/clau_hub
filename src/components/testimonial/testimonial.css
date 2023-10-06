@@ -1,7 +1,7 @@
 .container.testimonials__container{
     width: 50%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap:2.5rem;
 }
 
@@ -37,7 +37,7 @@
 
 @media screen and (max-width: 1024px) {
     .container.testimonials__container{
-        width: 60%;
+        width: 100%;
     }
 }
 

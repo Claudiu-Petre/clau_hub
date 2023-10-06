@@ -49,12 +49,12 @@ header {
     left: calc(50% - 11rem);
     margin-top: 6rem;
     border-radius: 10rem 10rem 3rem 3rem;
-    /* overflow: hidden; */
+    overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 
 }
 .me img{
-    height: 103%;
+    height: 100%;
     border-radius: 10rem 10rem 0 0;
     
 }
@@ -74,7 +74,7 @@ header {
 
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 100vh;
     }
 }
 
