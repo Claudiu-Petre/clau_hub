@@ -25,8 +25,8 @@ text-decoration: none;
     --color-bg-variant: #200d0d;
     --color-primary: #e31919;
     --color-primary-variant: rgba(140, 201, 245, 0.4);
-    --color-white: #ffffff;
-    --color-light: rgba(249, 249, 249, 0.6);
+    --color-white: #efeeee;
+    --color-light: white;
 
     --transition: all 400ms ease;
     border: 3px solid #e31919;
@@ -89,7 +89,7 @@ section {
 }
 
 section > h2{
-    text-align: left;
+    text-align: center;
     color: var(--color-light);
     margin-left: 3rem;
     font-size: 30px;
@@ -99,7 +99,7 @@ section > h2{
 } */
 
 section > h2 {
-    color: var(--color-primary);
+    /* color: var(--color-primary); */
     margin-bottom: 3rem;
 }
 
