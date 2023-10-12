@@ -43,8 +43,8 @@ const About = () => {
             An enthusiastic Software Developer who goes where ever the coding adventure takes him. 
             Initially, discovered the fascinating world of programming as self taught student, 
             plunging, later on, into deep end through an outstanding Software Engineer Bootcamp.
-            Apart from the Front and Back-end core technologies, diligently seeks out to expand 
-            their IT skills by exploring new Languages, Frameworks and Libraries. Curios and particularly 
+            Apart from the Front and Back-end core technologies (HTML, CSS, Javasript, Expres.Js, MySQL, Docker, Jest), diligently seeks out to expand 
+            their IT skills by exploring new Languages, Frameworks and Libraries (Python, Streamlit). Curios and particularly 
             observant of life's 'code', always enjoying an inspiring true story based film.
           </p>
 
