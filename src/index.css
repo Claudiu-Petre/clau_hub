@@ -19,7 +19,7 @@ text-decoration: none;
 
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
 
-    --color-bg: #000000;
+    --color-bg: #171717;
     /* --color-bg:#0c040c; */
 
     --color-bg-variant: #200d0d;
@@ -55,8 +55,8 @@ html {
 
 body {
     background: var(--color-bg);
-    /* background-image: radial-gradient(#414040 15%, transparent 15%); */
-    /* background-size: 10px 10px; */
+    background-image: radial-gradient(#272626 10%, transparent 10%);
+    background-size: 9px 9px;
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);

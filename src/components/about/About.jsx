@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,12 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem sequi perferendis ad, id cumque eum velit. Nisi, alias? Hic, debitis possimus repudiandae aperiam animi nam obcaecati harum? Debitis, deserunt non!
+            An enthusiastic Software Developer who goes where ever the coding adventure takes him. 
+            Initially, discovered the fascinating world of programming as self taught student, 
+            plunging, later on, into deep end through an outstanding Software Engineer Bootcamp.
+            Apart from the Front and Back-end core technologies, diligently seeks out to expand 
+            their IT skills by exploring new Languages, Frameworks and Libraries. Curios and particularly 
+            observant of life's 'code', always enjoying an inspiring true story based film.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
