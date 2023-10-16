@@ -19,7 +19,7 @@ text-decoration: none;
 
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
 
-    --color-bg: #171717;
+    --color-bg: #000000;
     /* --color-bg:#0c040c; */
 
     --color-bg-variant: #200d0d;
@@ -29,9 +29,9 @@ text-decoration: none;
     --color-light: white;
 
     --transition: all 400ms ease;
-    border: 3px solid #e31919;
+    border: 1px solid #e31919;
     border-radius: 15px;
-    box-shadow: 0 0 3px 2px #e31919;
+    box-shadow: 0 0 1px 1px #e31919;
     margin-top: 1rem;
     margin-left: 1rem;
     margin-right: 1rem;
