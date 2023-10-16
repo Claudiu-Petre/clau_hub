@@ -55,8 +55,8 @@ html {
 
 body {
     background: var(--color-bg);
-    background-image: radial-gradient(#272626 10%, transparent 10%);
-    background-size: 9px 9px;
+    background-image: radial-gradient(#141313 7%, transparent 7%);
+    background-size: 7px 7px;
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
