@@ -18,20 +18,20 @@ text-decoration: none;
     /* backdrop-filter: blur(20px);  */ 
 
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
+/* background: #284d3e; */
+    --color-bg: linear-gradient(to right, #000000, #140000 );
+       /* --color-bg:#0c040c; */
 
-    --color-bg: #000000;
-    /* --color-bg:#0c040c; */
-
-    --color-bg-variant: #200d0d;
-    --color-primary: #e31919;
+    --color-bg-variant: #370d0d;
+    --color-primary: #ed2f2f;
     --color-primary-variant: rgba(140, 201, 245, 0.4);
     --color-white: #efeeee;
     --color-light: white;
 
     --transition: all 400ms ease;
-    border: 1px solid #e31919;
-    border-radius: 15px;
-    box-shadow: 0 0 1px 1px #e31919;
+    /* border: 1px solid #e31919; */
+    /* border-radius: 15px; */
+    /* box-shadow: 0 0 1px 1px #e31919; */
     margin-top: 1rem;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -55,8 +55,8 @@ html {
 
 body {
     background: var(--color-bg);
-    background-image: radial-gradient(#141313 7%, transparent 7%);
-    background-size: 7px 7px;
+    /* background-image: radial-gradient(#141313 7%, transparent 7%); */
+    /* background-size: 7px 7px; */
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
