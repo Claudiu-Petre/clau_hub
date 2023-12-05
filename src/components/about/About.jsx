@@ -40,12 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            An enthusiastic Software Developer who goes where ever the coding adventure takes him. 
-            Initially, discovered the fascinating world of programming as self taught student, 
-            plunging, later on, into deep end through an outstanding Software Engineer Bootcamp.
-            Apart from the Front and Back-end core technologies (HTML, CSS, Javasript, Expres.Js, MySQL, Docker, Jest), diligently seeks out to expand 
-            their IT skills by exploring new Languages, Frameworks and Libraries (Python, Streamlit). Curios and particularly 
-            observant of life's 'code', always enjoying an inspiring true story based film.
+          A highly motivated Software Developer with a passion for exploring diverse coding challenges. Initially, I dived into the captivating realm of programming as a self-taught enthusiast, subsequently advancing my skills through an exemplary Software Engineer Bootcamp. Comfortable with both Front-end and Back-end core technologies, I am committed to continuous learning. Actively pursuing the expansion of my IT proficiency, I explore new languages, frameworks, and libraries, including Python and Streamlit.
+
+Known for my inquisitive nature and keen observation of life's intricate 'code,' I find inspiration in true story-based films. Seeking opportunities to contribute my skills and knowledge to innovative projects, I am dedicated to staying in sync with industry trends and emerging technologies.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

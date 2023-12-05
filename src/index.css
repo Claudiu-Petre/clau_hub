@@ -13,14 +13,9 @@ text-decoration: none;
 
 /* CSS variables */
 :root {
-    /* background-image: url(../src/pics/deeppurple.jpg);
-    background-size: cover; */
-    /* backdrop-filter: blur(20px);  */ 
-
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
-/* background: #284d3e; */
     --color-bg: linear-gradient(to right, #000000, #140000 );
-       /* --color-bg:#0c040c; */
+    /* --color-bg:#000000; */
 
     --color-bg-variant: #370d0d;
     --color-primary: #ed2f2f;
