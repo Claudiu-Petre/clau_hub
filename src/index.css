@@ -14,11 +14,11 @@ text-decoration: none;
 /* CSS variables */
 :root {
     /* background-image: linear-gradient(to right, #130713, #643cb4); */
-    --color-bg: linear-gradient(to right, #000000, #140000 );
-    /* --color-bg:#000000; */
+    /* --color-bg: linear-gradient(to right, #000000, #140000 ); */
+    --color-bg:#0a0101;
 
-    --color-bg-variant: #370d0d;
-    --color-primary: #ed2f2f;
+    --color-bg-variant: #340707;
+    --color-primary: #760f0f;
     --color-primary-variant: rgba(140, 201, 245, 0.4);
     --color-white: #efeeee;
     --color-light: white;
